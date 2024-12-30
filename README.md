@@ -23,5 +23,6 @@ Technologies and services: 💻
 <li>MVVM || MVC || Hexagonal || Singleton </li>
 <li>Deep Linking </li>
 </ul>
-With proficiency in these cutting-edge technologies and services, I'm equipped to bring your projects to life with seamless integration, robust functionality, and stunning user experiences! Let's create something extraordinary together! 🚀✨
+
+With proficiency in Flutter, I'm equipped to bring your projects to life with seamless integration, robust functionality, and stunning user experiences! Let's create something extraordinary together! 🚀✨
 
