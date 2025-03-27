@@ -5,7 +5,7 @@
 
 🚀 Mobile Applications Developer with a strong commitment to collaboration and solutions-oriented problem-solving. Committed to high standards of user experience and usability. 🌟
 
-🎯 I have 2+ years of experience Design and development Industry Level Projects with Flutter top notched techniques Including Riverpod, Bloc, GetX, Google Maps, Rive animations, Retrofit, API's Integration, GraphQl integration, etc. ☁️🔧
+🎯 I have 3+ years of experience Design and development Industry Level Projects with Flutter top notched techniques Including Riverpod, Bloc, GetX, Google Maps, Rive animations, Retrofit, API's Integration, GraphQl integration, etc. ☁️🔧
 
 📱 Experience in developing Cross-platform Mobile applications with flutter with awesome UI/UX design and integration of third-party API + firebase backend. 
 Get ready to take your web and mobile projects to the next level with my expertise! Let's build amazing applications together! 🌟🔨💻
